@@ -400,3 +400,11 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Jodie Gurry](https://github.com/jegurry)
+
+3L at Suffolk University Law School. 
+
+@j_gurry on on [Twitter](https://twitter.com/j_gurry)
+
+[Personal Website](http://www.jodiegurry.com)
